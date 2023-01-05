@@ -1,0 +1,5 @@
+!!! W A R N I N G !!!
+The code was tested on GNU/Linux. However, you
+run it with other OS. It might generate
+issues with importing files into a prepared
+scripts scenario and issues with stability

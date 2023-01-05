@@ -1,0 +1,545 @@
+LOCUS       NG_034223               9139 bp    DNA     linear   PRI 31-OCT-2022
+DEFINITION  Homo sapiens coiled-coil-helix-coiled-coil-helix domain containing
+            10 (CHCHD10), RefSeqGene on chromosome 22; nuclear gene for
+            mitochondrial product.
+ACCESSION   NG_034223
+VERSION     NG_034223.1
+KEYWORDS    RefSeq; RefSeqGene.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 9139)
+  AUTHORS   Bannwarth S, Ait-El-Mkadem S, Chaussenot A, Genin EC, Lacas-Gervais
+            S, Fragaki K, Berg-Alonso L, Kageyama Y, Serre V, Moore DG,
+            Verschueren A, Rouzier C, Le Ber I, Auge G, Cochaud C, Lespinasse
+            F, N'Guyen K, de Septenville A, Brice A, Yu-Wai-Man P, Sesaki H,
+            Pouget J and Paquis-Flucklinger V.
+  TITLE     A mitochondrial origin for frontotemporal dementia and amyotrophic
+            lateral sclerosis through CHCHD10 involvement
+  JOURNAL   Brain 137 (Pt 8), 2329-2345 (2014)
+   PUBMED   24934289
+REFERENCE   2  (bases 1 to 9139)
+  AUTHORS   Martherus RS, Sluiter W, Timmer ED, VanHerle SJ, Smeets HJ and
+            Ayoubi TA.
+  TITLE     Functional annotation of heart enriched mitochondrial genes GBAS
+            and CHCHD10 through guilt by association
+  JOURNAL   Biochem Biophys Res Commun 402 (2), 203-208 (2010)
+   PUBMED   20888800
+REFERENCE   3  (bases 1 to 9139)
+  AUTHORS   Ait-El-Mkadem Saadi,S., Chaussenot,A., Bannwarth,S., Rouzier,C. and
+            Paquis-Flucklinger,V.
+  TITLE     CHCHD10-Related Disorders
+  JOURNAL   (in) Adam MP, Everman DB, Mirzaa GM, Pagon RA, Wallace SE, Bean
+            LJH, Gripp KW and Amemiya A (Eds.);
+            GENEREVIEWS((R));
+            (1993)
+   PUBMED   26131548
+REFERENCE   4  (bases 1 to 9139)
+  AUTHORS   Siddique,N. and Siddique,T.
+  TITLE     Amyotrophic Lateral Sclerosis Overview
+  JOURNAL   (in) Adam MP, Everman DB, Mirzaa GM, Pagon RA, Wallace SE, Bean
+            LJH, Gripp KW and Amemiya A (Eds.);
+            GENEREVIEWS((R));
+            (1993)
+   PUBMED   20301623
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from AP000349.1.
+            This sequence is a reference standard in the RefSeqGene project.
+            
+            Summary: This gene encodes a mitochondrial protein that is enriched
+            at cristae junctions in the intermembrane space. It may play a role
+            in cristae morphology maintenance or oxidative phosphorylation.
+            Mutations in this gene cause frontotemporal dementia and/or
+            amyotrophic lateral sclerosis-2. Alternative splicing of this gene
+            results in multiple transcript variants. Related pseudogenes have
+            been identified on chromosomes 7 and 19. [provided by RefSeq, Aug
+            2014].
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-9139              AP000349.1         196-9334            c
+FEATURES             Location/Qualifiers
+     source          1..9139
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="22"
+                     /map="22q11.23"
+     gene            complement(<1..124)
+                     /gene="MMP11"
+                     /gene_synonym="SL-3; ST3; STMY3"
+                     /note="matrix metallopeptidase 11"
+                     /db_xref="GeneID:4320"
+                     /db_xref="HGNC:HGNC:7157"
+                     /db_xref="MIM:185261"
+     mRNA            complement(<1..124)
+                     /gene="MMP11"
+                     /gene_synonym="SL-3; ST3; STMY3"
+                     /product="matrix metallopeptidase 11, transcript variant
+                     1"
+                     /inference="similar to RNA sequence, mRNA (same
+                     species):RefSeq:NM_005940.5"
+                     /exception="annotated by transcript or proteomic data"
+                     /transcript_id="NM_005940.5"
+                     /db_xref="GeneID:4320"
+                     /db_xref="HGNC:HGNC:7157"
+                     /db_xref="MIM:185261"
+     misc_RNA        complement(<1..124)
+                     /gene="MMP11"
+                     /gene_synonym="SL-3; ST3; STMY3"
+                     /product="matrix metallopeptidase 11, transcript variant
+                     2"
+                     /inference="similar to RNA sequence (same
+                     species):RefSeq:NR_133013.2"
+                     /exception="annotated by transcript or proteomic data"
+                     /transcript_id="NR_133013.2"
+                     /db_xref="GeneID:4320"
+                     /db_xref="HGNC:HGNC:7157"
+                     /db_xref="MIM:185261"
+     CDS             complement(<1..102)
+                     /gene="MMP11"
+                     /gene_synonym="SL-3; ST3; STMY3"
+                     /EC_number="3.4.24.-"
+                     /inference="similar to AA sequence (same
+                     species):RefSeq:NP_005931.2"
+                     /exception="annotated by transcript or proteomic data"
+                     /note="stromelysin III; matrix metallopeptidase 11
+                     (stromelysin 3)"
+                     /codon_start=1
+                     /product="stromelysin-3 preproprotein"
+                     /protein_id="NP_005931.2"
+                     /db_xref="CCDS:CCDS13816.1"
+                     /db_xref="GeneID:4320"
+                     /db_xref="HGNC:HGNC:7157"
+                     /db_xref="MIM:185261"
+                     /translation="MAPAAWLRSAAARALLPPMLLLLLQPPPLLARALPPDAHHLHAE
+                     RRGPQPWHAALPSSPAPAPATQEAPRPASSLRPPRCGVPDPSDGLSARNRQKRFVLSG
+                     GRWEKTDLTYRILRFPWQLVQEQVRQTMAEALKVWSDVTPLTFTEVHEGRADIMIDFA
+                     RYWHGDDLPFDGPGGILAHAFFPKTHREGDVHFDYDETWTIGDDQGTDLLQVAAHEFG
+                     HVLGLQHTTAAKALMSAFYTFRYPLSLSPDDCRGVQHLYGQPWPTVTSRTPALGPQAG
+                     IDTNEIAPLEPDAPPDACEASFDAVSTIRGELFFFKAGFVWRLRGGQLQPGYPALASR
+                     HWQGLPSPVDAAFEDAQGHIWFFQGAQYWVYDGEKPVLGPAPLTELGLVRFPVHAALV
+                     WGPEKNKIYFFRGRDYWRFHPSTRRVDSPVPRRATDWRGVPSEIDAAFQDADGYAYFL
+                     RGRLYWKFDPVKVKALEGFPRLVGPDFFGCAEPANTFL"
+     sig_peptide     complement(10..102)
+                     /gene="MMP11"
+                     /gene_synonym="SL-3; ST3; STMY3"
+                     /inference="COORDINATES: ab initio prediction:SignalP:4.0"
+     gene            5001..7139
+                     /gene="CHCHD10"
+                     /gene_synonym="C22orf16; FTDALS2; IMMD; MIX17A; N27C7-4;
+                     SMAJ"
+                     /note="coiled-coil-helix-coiled-coil-helix domain
+                     containing 10"
+                     /db_xref="GeneID:400916"
+                     /db_xref="HGNC:HGNC:15559"
+                     /db_xref="MIM:615903"
+     mRNA            join(5001..5139,5380..5599,6698..6845,6947..7139)
+                     /gene="CHCHD10"
+                     /gene_synonym="C22orf16; FTDALS2; IMMD; MIX17A; N27C7-4;
+                     SMAJ"
+                     /product="coiled-coil-helix-coiled-coil-helix domain
+                     containing 10, transcript variant 2"
+                     /transcript_id="NM_213720.3"
+                     /db_xref="GeneID:400916"
+                     /db_xref="HGNC:HGNC:15559"
+                     /db_xref="MIM:615903"
+     exon            5001..5139
+                     /gene="CHCHD10"
+                     /gene_synonym="C22orf16; FTDALS2; IMMD; MIX17A; N27C7-4;
+                     SMAJ"
+                     /inference="alignment:Splign:2.1.0"
+                     /number=1
+     CDS             join(5099..5139,5380..5599,6698..6845,6947..6966)
+                     /gene="CHCHD10"
+                     /gene_synonym="C22orf16; FTDALS2; IMMD; MIX17A; N27C7-4;
+                     SMAJ"
+                     /note="isoform b precursor is encoded by transcript
+                     variant 2; coiled-coil-helix-coiled-coil-helix
+                     domain-containing protein 10, mitochondrial; MIX17 homolog
+                     A"
+                     /codon_start=1
+                     /product="coiled-coil-helix-coiled-coil-helix
+                     domain-containing protein 10, mitochondrial isoform b
+                     precursor"
+                     /protein_id="NP_998885.1"
+                     /db_xref="CCDS:CCDS13815.1"
+                     /db_xref="GeneID:400916"
+                     /db_xref="HGNC:HGNC:15559"
+                     /db_xref="MIM:615903"
+                     /translation="MPRGSRSAASRPASRPAAPSAHPPAHPPPSAAAPAPAPSGQPGL
+                     MAQMATTAAGVAVGSAVGHVMGSALTGAFSGGSSEPSQPAVQQAPTPAAPQPLQMGPC
+                     AYEIRQFLDCSTTQSDLSLCEGFSEALKQCKYYHGLSSLP"
+     misc_feature    join(5099..5139,5380..5473)
+                     /gene="CHCHD10"
+                     /gene_synonym="C22orf16; FTDALS2; IMMD; MIX17A; N27C7-4;
+                     SMAJ"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q8WYQ3.1);
+                     Region: Disordered. /evidence=ECO:0000256|SAM:MobiDB-lite"
+     transit_peptide join(5099..5139,5380..5386)
+                     /gene="CHCHD10"
+                     /gene_synonym="C22orf16; FTDALS2; IMMD; MIX17A; N27C7-4;
+                     SMAJ"
+                     /note="Mitochondrion. /evidence=ECO:0000255; propagated
+                     from UniProtKB/Swiss-Prot (Q8WYQ3.1)"
+     mat_peptide     join(5387..5599,6698..6845,6947..6963)
+                     /gene="CHCHD10"
+                     /gene_synonym="C22orf16; FTDALS2; IMMD; MIX17A; N27C7-4;
+                     SMAJ"
+                     /product="Coiled-coil-helix-coiled-coil-helix
+                     domain-containing protein 10, mitochondrial.
+                     /id=PRO_0000254038"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q8WYQ3.1)"
+     misc_feature    join(5540..5599,6698..6727)
+                     /gene="CHCHD10"
+                     /gene_synonym="C22orf16; FTDALS2; IMMD; MIX17A; N27C7-4;
+                     SMAJ"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q8WYQ3.1);
+                     Region: Disordered. /evidence=ECO:0000256|SAM:MobiDB-lite"
+     misc_feature    6740..6772
+                     /gene="CHCHD10"
+                     /gene_synonym="C22orf16; FTDALS2; IMMD; MIX17A; N27C7-4;
+                     SMAJ"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q8WYQ3.1);
+                     Region: Cx9C motif 1.
+                     /evidence=ECO:0000255|PROSITE-ProRule:PRU01150"
+     misc_feature    6800..6832
+                     /gene="CHCHD10"
+                     /gene_synonym="C22orf16; FTDALS2; IMMD; MIX17A; N27C7-4;
+                     SMAJ"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q8WYQ3.1);
+                     Region: Cx9C motif 2.
+                     /evidence=ECO:0000255|PROSITE-ProRule:PRU01150"
+     exon            5380..5599
+                     /gene="CHCHD10"
+                     /gene_synonym="C22orf16; FTDALS2; IMMD; MIX17A; N27C7-4;
+                     SMAJ"
+                     /inference="alignment:Splign:2.1.0"
+                     /number=2
+     exon            6698..6845
+                     /gene="CHCHD10"
+                     /gene_synonym="C22orf16; FTDALS2; IMMD; MIX17A; N27C7-4;
+                     SMAJ"
+                     /inference="alignment:Splign:2.1.0"
+                     /number=3
+     exon            6947..7139
+                     /gene="CHCHD10"
+                     /gene_synonym="C22orf16; FTDALS2; IMMD; MIX17A; N27C7-4;
+                     SMAJ"
+                     /inference="alignment:Splign:2.1.0"
+                     /number=4
+     gene            complement(7110..>9139)
+                     /gene="C22orf15"
+                     /gene_synonym="N27C7-3"
+                     /note="chromosome 22 open reading frame 15"
+                     /db_xref="GeneID:150248"
+                     /db_xref="HGNC:HGNC:15558"
+     mRNA            complement(join(7110..7252,8071..8180,8260..8334,
+                     8576..8713,8800..>8886))
+                     /gene="C22orf15"
+                     /gene_synonym="N27C7-3"
+                     /product="chromosome 22 open reading frame 15, transcript
+                     variant 1"
+                     /inference="similar to RNA sequence, mRNA (same
+                     species):RefSeq:NM_182520.3"
+                     /exception="annotated by transcript or proteomic data"
+                     /transcript_id="NM_182520.3"
+                     /db_xref="GeneID:150248"
+                     /db_xref="HGNC:HGNC:15558"
+     mRNA            complement(join(7110..7252,8260..8334,8571..8713,
+                     8800..>8886))
+                     /gene="C22orf15"
+                     /gene_synonym="N27C7-3"
+                     /product="chromosome 22 open reading frame 15, transcript
+                     variant 5"
+                     /inference="similar to RNA sequence, mRNA (same
+                     species):RefSeq:NM_001376905.1"
+                     /exception="annotated by transcript or proteomic data"
+                     /transcript_id="NM_001376905.1"
+                     /db_xref="GeneID:150248"
+                     /db_xref="HGNC:HGNC:15558"
+     mRNA            complement(join(7110..7252,8071..8180,8260..8334,
+                     8571..8713,8800..>8886))
+                     /gene="C22orf15"
+                     /gene_synonym="N27C7-3"
+                     /product="chromosome 22 open reading frame 15, transcript
+                     variant 2"
+                     /inference="similar to RNA sequence, mRNA (same
+                     species):RefSeq:NM_001331041.2"
+                     /exception="annotated by transcript or proteomic data"
+                     /transcript_id="NM_001331041.2"
+                     /db_xref="GeneID:150248"
+                     /db_xref="HGNC:HGNC:15558"
+     mRNA            complement(join(7110..7252,8260..8334,8561..8713,
+                     8800..>8886))
+                     /gene="C22orf15"
+                     /gene_synonym="N27C7-3"
+                     /product="chromosome 22 open reading frame 15, transcript
+                     variant 4"
+                     /inference="similar to RNA sequence, mRNA (same
+                     species):RefSeq:NM_001376904.1"
+                     /exception="annotated by transcript or proteomic data"
+                     /transcript_id="NM_001376904.1"
+                     /db_xref="GeneID:150248"
+                     /db_xref="HGNC:HGNC:15558"
+     mRNA            complement(join(7110..7252,7516..7596,8260..8334,
+                     8561..8713,8800..>8886))
+                     /gene="C22orf15"
+                     /gene_synonym="N27C7-3"
+                     /product="chromosome 22 open reading frame 15, transcript
+                     variant 3"
+                     /inference="similar to RNA sequence, mRNA (same
+                     species):RefSeq:NM_001376903.1"
+                     /exception="annotated by transcript or proteomic data"
+                     /transcript_id="NM_001376903.1"
+                     /db_xref="GeneID:150248"
+                     /db_xref="HGNC:HGNC:15558"
+     CDS             complement(join(7219..7252,8071..8180,8260..8334,
+                     8571..8713,8800..>8886))
+                     /gene="C22orf15"
+                     /gene_synonym="N27C7-3"
+                     /inference="similar to AA sequence (same
+                     species):RefSeq:NP_001317970.1"
+                     /exception="annotated by transcript or proteomic data"
+                     /note="isoform 2 is encoded by transcript variant 2;
+                     protein N27C7-3; uncharacterized protein C22orf15"
+                     /codon_start=3
+                     /product="uncharacterized protein C22orf15 isoform 2"
+                     /protein_id="NP_001317970.1"
+                     /db_xref="CCDS:CCDS82698.1"
+                     /db_xref="GeneID:150248"
+                     /db_xref="HGNC:HGNC:15558"
+                     /translation="MFIKVMFGAGCSVLVNTSCRLVNLTAHLRQKAGLPPDATIALLA
+                     EDGNLVSLEEDLKEGASRAQTMGNSLLKERAIYVLVRIISKRERTWPPPAMSPYWRTW
+                     MTITQSWQRNCAGCQASPLWATTGGSVWALGEAAMSKAPLQGPERALIKGMDCTL"
+     CDS             complement(join(7241..7252,8071..8180,8260..8334,
+                     8576..8713,8800..>8886))
+                     /gene="C22orf15"
+                     /gene_synonym="N27C7-3"
+                     /inference="similar to AA sequence (same
+                     species):RefSeq:NP_872326.2"
+                     /exception="annotated by transcript or proteomic data"
+                     /note="isoform 1 is encoded by transcript variant 1;
+                     protein N27C7-3; uncharacterized protein C22orf15"
+                     /codon_start=3
+                     /product="uncharacterized protein C22orf15 isoform 1"
+                     /protein_id="NP_872326.2"
+                     /db_xref="CCDS:CCDS13814.2"
+                     /db_xref="GeneID:150248"
+                     /db_xref="HGNC:HGNC:15558"
+                     /translation="MFIKVMFGAGCSVLVNTSCRLVNLTAHLRQKAGLPPDATIALLA
+                     EDGNLVSLEEDLKEGASRAQTMGNSLLKERAIYVLVRIIKGEDMASTRYESLLENLDD
+                     HYPELAEELRRLSGLSSVGHNWRKRMGTRRGRHEQSPTSRPRKGPD"
+     misc_feature    complement(join(7241..7252,8071..8115))
+                     /gene="C22orf15"
+                     /gene_synonym="N27C7-3"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q8WYQ4.1);
+                     Region: Disordered. /evidence=ECO:0000256|SAM:MobiDB-lite"
+     CDS             complement(join(7241..7252,8260..8334,8571..8713,
+                     8800..>8886))
+                     /gene="C22orf15"
+                     /gene_synonym="N27C7-3"
+                     /inference="similar to AA sequence (same
+                     species):RefSeq:NP_001363834.1"
+                     /exception="annotated by transcript or proteomic data"
+                     /note="isoform 5 is encoded by transcript variant 5;
+                     protein N27C7-3; uncharacterized protein C22orf15"
+                     /codon_start=3
+                     /product="uncharacterized protein C22orf15 isoform 5"
+                     /protein_id="NP_001363834.1"
+                     /db_xref="GeneID:150248"
+                     /db_xref="HGNC:HGNC:15558"
+                     /translation="MFIKVMFGAGCSVLVNTSCRLVNLTAHLRQKAGLPPDATIALLA
+                     EDGNLVSLEEDLKEGASRAQTMGNSLLKERAIYVLVRIISKRERTWPPPAMSPYWRTW
+                     MTITQSWQGPD"
+     CDS             complement(join(7245..7252,8260..8334,8561..8713,
+                     8800..>8886))
+                     /gene="C22orf15"
+                     /gene_synonym="N27C7-3"
+                     /inference="similar to AA sequence (same
+                     species):RefSeq:NP_001363833.1"
+                     /exception="annotated by transcript or proteomic data"
+                     /note="isoform 4 is encoded by transcript variant 4;
+                     protein N27C7-3; uncharacterized protein C22orf15"
+                     /codon_start=3
+                     /product="uncharacterized protein C22orf15 isoform 4"
+                     /protein_id="NP_001363833.1"
+                     /db_xref="GeneID:150248"
+                     /db_xref="HGNC:HGNC:15558"
+                     /translation="MFIKVMFGAGCSVLVNTSCRLVNLTAHLRQKAGLPPDATIALLA
+                     EDGNLVSLEEDLKEGASRAQTMGNSLLKERAIYVLVRIISKVAQEGEDMASTRYESLL
+                     ENLDDHYPELAGP"
+     CDS             complement(join(7245..7252,7516..7596,8260..8334,
+                     8561..8713,8800..>8886))
+                     /gene="C22orf15"
+                     /gene_synonym="N27C7-3"
+                     /inference="similar to AA sequence (same
+                     species):RefSeq:NP_001363832.1"
+                     /exception="annotated by transcript or proteomic data"
+                     /note="isoform 3 is encoded by transcript variant 3;
+                     protein N27C7-3; uncharacterized protein C22orf15"
+                     /codon_start=3
+                     /product="uncharacterized protein C22orf15 isoform 3"
+                     /protein_id="NP_001363832.1"
+                     /db_xref="CCDS:CCDS93130.1"
+                     /db_xref="GeneID:150248"
+                     /db_xref="HGNC:HGNC:15558"
+                     /translation="MFIKVMFGAGCSVLVNTSCRLVNLTAHLRQKAGLPPDATIALLA
+                     EDGNLVSLEEDLKEGASRAQTMGNSLLKERAIYVLVRIISKVAQEGEDMASTRYESLL
+                     ENLDDHYPELAGANRQQPSRTPLAESGIAEKLHQQEGQGP"
+ORIGIN      
+        1 cagagcccgg gccagcagcg gcggcggctg gagcagcagc agcagcatcg ggggcaggag
+       61 ggcgcgcgcg gccgcgctgc ggagccaggc ggccggagcc atccgccccg gggctgctgg
+      121 gcttgctggg ccgctccggg ccgccgcccc ttatagcttc cgccccaccc ccggcccgcc
+      181 tcggccccgc cccccgccgc cttttgttct gaactctcct agcagccgcg gcccgggtgg
+      241 gggaggtgaa cggggagggt acggcccagc ggggtcgagg gccggagaca gggtcctgcc
+      301 ccggggctgg caaagtccct atctggtgct gggtgaccct ggccaacccg tgccgctctg
+      361 ggtctcagtt tctcctctgg gtggtggccg tccaaagtct tagacttggc tagagtctga
+      421 gaggagtcag gtttcatggg tcccatccgt acccccacct ttggaaggcg catcccactg
+      481 ggtctccttg gtggcctgac ctctgacctc tgacaggtgg tcctacccac aagcaagttc
+      541 ccccacccct cagagcctca acggatcctt ctagaagatg acacaatagc ccctgtgagg
+      601 aaagggatat tattttattt tttattatta ttattttttg agacacagtc tcactctgtc
+      661 tcccaggcag gagtgcagtg gtgtgatctc cactcactgc aacctccgcc tcccaggttc
+      721 aaacgattct gctacctcag cctcccaagt agctgggacc acagacgtgc gccaccatgc
+      781 ctggctaatt tttgtatttt tagtagagat ggggtttcac catgttggcc aggctggtct
+      841 cgaactcctg acctcaagtg atctgcccac cttggcctcc caaagtgctg ggattacatg
+      901 gggaagccat tgcacctggc caggaaaggg atattaaaat gtgtcccagg ggaaagtgag
+      961 gcatatggca gggactggcc agttcttcag cttgggatag accgaagttt acagataggg
+     1021 aaactgaggc tccaagaggg agggtccagg cttttccaca ccagcagaca agtggagggg
+     1081 tcaggaggtc ctctagctgg tcagctgtgg gaaggatgct gtcagaaggc tgtgggaggt
+     1141 gtctgagtgg agtactgggc ccccagggtg tcccctcgtc agtgcccaac aagcccctgg
+     1201 ggacccctcc aggctagcca cctcagactt gaaagaaagg aggcgagagg ccgggcgcag
+     1261 tggctcatgc ctgtaatccc agcactttgg gaggccgagg caggtggatc acgaggtcag
+     1321 gagttggaga gcagcctgac caacatggtg aaaccctgtc tctactaaaa atacaaaaat
+     1381 tagccaggtg tggtggcaca cacctgtaag cccagctact caggaggctg aagcaggaga
+     1441 atcacttgaa cccgggaggc ggaggttgca gtgagccgag attgttccat tgcactccag
+     1501 cctgggtgac agagcgagac tccatctcaa aaaaaagaag gaaaggaggt gagactcaaa
+     1561 ggaggggttg tgtccacatt ctggaaggga tccttcagtc tcatccctga ttttcggggt
+     1621 tacccagtac tgctgtacac cccctgaaat gatgaagggc ctcaccacct caccaggcga
+     1681 cctgttccat catgggtggc cctgcagagc cacgatccag gcagtggctc gcatcctggc
+     1741 aggcagggct ctgagctgct caaaggtgag gctgtggtca ggaagcctgg gccaagaaag
+     1801 ggaagcgggt ggggaaatgt ttcacagctt attcaagaag actccacaga gactcctaga
+     1861 gggcgaggag aagtaagaca gcagtaattt ttacaaccta cactgttcgt aatcttttct
+     1921 tttttttttt tttttttttg agacggagtc tctctctgtc gcccaggctg gagtgcagtg
+     1981 acgcgatctc ggctcactgc aagctccgcc tcccaggttc atgccattct cctgcctcag
+     2041 tctcccgagt agctgggact acaggcgccc gccaccatgc ccagctaatt ttttatattt
+     2101 ttagtagaga tggggtttca ccgtgttggc caggctggtc ttgaactcct gacctcaggt
+     2161 gatccacccg cctcggcctc ccaaagtgct gggattacag gcgtgagcca ccgcgcctga
+     2221 aaggcaatct tttctttaaa gtcactcact tttatttact tttattattt tgagacaggg
+     2281 tcttgctcaa tggtgtgatc ttggctcact gcaacctccg ccttccaggc tcaaacgatc
+     2341 ctcctgcctc agcctcccaa gtagctggga ctaccggtgt gcatcactat gccctgctaa
+     2401 tttttgtatt ttttgtagag acagggtttc accatgttgg ccaggctggt ctcgaactcc
+     2461 tggactcaag caatctgcct gcctgggact cacaaagttc tgggatatag acatgagcca
+     2521 ctattccccg ctaaagtgac tcatttttaa aaagtaggca tttcaggcca ggcgtggtgg
+     2581 ctcatgcctg taatcccagc actttgggag gctgaggcag gcggatcaca agagaccatc
+     2641 ctggccaaca tggtgaaacc ctgtctctac taaaaataca aaaaaaaatt agctgggcat
+     2701 ggtggcacgt gcctgtagtc ccagctactt gggaagctga agcaggagaa tcacttgaac
+     2761 ccgggaggtg gaggttgcag taagctgaga tcacaccacc gcactccagc ctggcaacag
+     2821 agtgagactc tgtttaaaaa aacaaaaaca aaaacaaaaa aacaacaaaa aacaaacaat
+     2881 tagcggggca tggtggcatg tgcctgtggt cccagatact cgggaggctg aggcaagaga
+     2941 atcgcttgaa cccaggaggc agaagttgca gtgagtggag atcataccac tgcactccag
+     3001 cctgagcgac agagcaagac tccgtttcaa aaaaaaaaaa aaaaaaaagt tggcatttca
+     3061 atgcctgctt cagtgtcatc ctttcagcct cattttcatt tgtgtaaccc acttaagtgg
+     3121 tcttgggtgc ctccgaggtg caaggccatg ctttgtggaa cctgcagtcc atcagccatg
+     3181 ggagctgaag taacaactct ctgcagttta ggcccgggga ccaccatgag aagtgttcag
+     3241 tttgtttggt gtggcaaaca ggaaccaggt ggcatggact gcatgaacaa gggagtagcg
+     3301 gctggaccag gcctggtgag tctgccagga aagaatggcc cacccttggt gtgctcacct
+     3361 cactgggagg ccaccctcaa ggtgggtggt cacccccctt cagagaggag aaactgaaga
+     3421 cagggcgggg aagggccctg ttcacaggct ggctgaaagg actgcagtgt gagagaacac
+     3481 agggctgcac ctgacttcca tggagagcat gcatggctgg ggacagctgt gcacacacag
+     3541 aattgagcat gccaggcagg gccaaacgcc ccagccacca ctccccttgc cccttgacct
+     3601 gctccttcct tatggagggg cctcctctct tacttggtga cccacacccc cacttctggg
+     3661 tgcttttgct cttggttgca ccctgccgac aatcccggtg tcaggagtcc tctgcaggca
+     3721 cagcagtgat gagggacagt ccctaccttc ccccacctag gagtaataat atgaccactg
+     3781 caaagtcacc cagaaaagac cataaaaacc tcaagctcag ccgggcgcga tggctcatgc
+     3841 ttgtaatccc agcactttgg gaggctgagg taggaggatc atgagctcag gagttggaga
+     3901 ccagtttggc caacatggtg aaaccccgtc tctactaaaa atacaaaaat tagccaggtg
+     3961 tggtggcacg agcctgtagt cccagctact caggaggctg aggcaggaga attgcttgaa
+     4021 tccgggaggt ggaggttgca gtgagccgag atcgccactg cactccaacc tgggcgacag
+     4081 agcaaggctc cgtgtcaaaa aaaaaaaagt aaaaagtaaa attaaaacct caagttctcg
+     4141 aagagcagga aagcattcta aatccgcgct ccagctcacc tggcctggaa cgaagctgct
+     4201 aaaattgcga ggccgcaggc ttcaaacttg cgctagattt gaccgagccg ggcaaatgct
+     4261 cctaggcctt tgggatagac acgctgctcg gatgtcgcgt aaaggccgtt agtgtcgggg
+     4321 gttgcactcg cggggccagg gactaggtgg gggcggtcgg gccggcccgg ggaatccggt
+     4381 ggggttcagg gccgcgcggg gggcctcata tcccccgcgg gcactgcgta aggctgccag
+     4441 cattggcagc gcattttggc caacagtcga agacgggttg ggacgccccc tcgtgggagt
+     4501 tctggggatg ggttgctcca ggccttcccc agggccgcgc ttcacttccc taggccaccg
+     4561 gagactccca ggccacgcgg tggtcagcag accctgtctg gagggagggg acagacagcc
+     4621 gagtccggga gggggcagag agcggagtcc agcctggagc ctcgcgtccc cttcccagct
+     4681 ggccccatcc cgtcgcctcc ccgtctcctc tcccctccag ggctcgcaac aacccccaac
+     4741 tccgctccct gccctctgcg gtggtcctaa cagaaggcac tgtcgccctc cttaagccct
+     4801 cggcgctttg cgacactggc ccctgtcccc agaacccgca cagcctgcca ggcgcaggga
+     4861 gggagcaggg tcccatttcc agccgagacc cggagctgct ggaagggaga tgtccggagg
+     4921 acgggagaag ggggataggg ttgggggcag tgccgcctcc cgctgggggc gtgttcctga
+     4981 ggccccgccc ggggccccgc cttttttgcg ccggctgtga caagcgctgc ggcatttgtc
+     5041 cccgcgacag caccgctgcc gccgtctcta aggtcgcccg ggtcccaccg ccgccaccat
+     5101 gcctcgggga agccgcagcg cggcctcccg gccagccagg tgtgaggggg acaagggccc
+     5161 tgtggggagg gggttaggga agtgtgggca ctcccctaag ggcgtccgca gagtgacctt
+     5221 ggctgctgct gcgccatctt ggcgggggga ggggtggggg tgcagcaccc acgtgtggag
+     5281 acgtgggtcg tccatctctc cgggggtcgt ttccaggagc tgcagccctc cagcctgggg
+     5341 tctggccagg attaaccctg cttcctccca cccccgcagc cgcccagccg cgccctctgc
+     5401 ccacccgccc gcgcacccac cgccctcggc agccgcccca gcccccgccc cttcgggcca
+     5461 gccggggctc atggctcaga tggcgaccac ggccgcaggg gtagccgtgg gctcggctgt
+     5521 gggacacgtc atgggcagcg ccctgaccgg agccttcagc ggggggagct cggagccctc
+     5581 ccagcctgct gtccagcagg tgagcagcga gtccaagaga aactgaggca ggattatctc
+     5641 gaggccacac agggagctgc ccaagtgtcc agtgaggagt gtccgcgtgt attcaccatt
+     5701 gcttcagccc aggactctgc ccgggaaggg tcctagtcca ctggtcttga gttcactgtc
+     5761 acttagaggc aggcttcccg gcctctccct tgaggccagg gtccctaagc tcccagggag
+     5821 agacaccaac cagcccttta aagatgggaa acccaggccc tgagggctca gagactcgcc
+     5881 caaggtcacc tcaccctagc agaggggagg gatgttggat ttcctgagcc cctgttctcc
+     5941 ccacacccag gtctgggcac tgtggccgct gggcgcaagg gcgaagggga gccacttccc
+     6001 tgatgacctt tcccctgcta ggaaccccac cgccgtaagc caaatgtggc tttgtggcta
+     6061 ggtcaggggt catgaggatt agtgtagctg agccaggaag gtgctagaac ttgtgggggt
+     6121 ggggctcata ctctgagagt acaggcagag tactgggctt tcctagagcc ttctcctccc
+     6181 tctcctgcac ccgcccaaag tgcccattag aaggcagcag aggccaggcg cagtggctca
+     6241 tgcctgtaat cccagcactt tgggaggcca aggcgggtgg atcatgagtt caggagttcg
+     6301 ataccagcct ggccaacata gtgaaacccc ctctctacta aaaatacaaa aaatttgttg
+     6361 ggcatggtgg cgggcgcctg tagccccagc tacttgggag gccaaggcag gacaaccact
+     6421 tgaacccggg aggcggaggt tgcagtgagc cgagactgcg ccgctgcact ccactctagg
+     6481 tgacagagtg agactctgtc tcaaaaaaaa aaaaaaaaaa aggcagcaga aacatgctgt
+     6541 ctgtagccgc ctctgctgct ggatcactca gcctgcctag gacccttggg acacccaggc
+     6601 tggggatgtg gggaggggca ggtggcccca ggtttgaaac gcacctccag gtgccaactc
+     6661 caagctgatc ctgcagcctc ttgcactgta cccccaggcc cccacccccg ctgcccccca
+     6721 gcccctgcag atggggccct gcgcctacga gatcaggcag ttcctggact gttccaccac
+     6781 tcagagtgac ctgtccctgt gtgagggctt cagcgaggcc ctgaagcagt gcaagtacta
+     6841 ccatggtgag tgagtggacc ccgactcagg cggggagggg gagaggccaa ccctcctctt
+     6901 gcacctgcag gctgaccacc agcctgtgct gcccctccct tcccaggtct gagctccctg
+     6961 ccctgaagag gtcggtgcag actcgggggc cagtcctgca cccacctcta cccctcgccg
+     7021 acagccagac cacaacacca gattgtaccc agatagctgg gattggaagt gaggaggttt
+     7081 ctcaccccac agataaccca agacacaaat gtgcaattaa aagtttattt tagaccacag
+     7141 cctgttgtgt gcctctctcg atggcctgtc ttcagggagc tccctggctg atgaggtggg
+     7201 gtcaggatgg atgtctcact acagtgtgca atccatcccc ttaatcaggg ccctgggtgg
+     7261 ggaggaggag ccctgttgca atctgcactg tgggtagcac aggacagatt ccttgggcag
+     7321 tccagagtga ggtggagagg cattagtcgg tgatcccaag ggcatctgac tctgagggtg
+     7381 gaatcccagg atgaacccat ggtctccccc ttatcaggga tacctgccac ctctaccctt
+     7441 cttgtctcta cctctgcatc ccattctctg cacccacagc ttaggtgccc ctggcggcct
+     7501 caaatcctgt ctgaccttgc ccctcttgct gatgcaactt ctcagcaatt ccagattctg
+     7561 caagaggagt cctgctgggt tgttgtctgt ttgcacctga tcacacaagg cagaggtcat
+     7621 ggctaacccc cttgggtctg agtccaactt ggctagttgg cagtagtgtg ccaggtcccc
+     7681 aagcctgcca gaatggaaga acaagccctt caaacccagt gtgggccgtg ccatcacaca
+     7741 ccatgctgcc gccttcattg agttcatcca gcagttgtgc actgagctcc tactgtgtgc
+     7801 cagcccctat gccacatctg tgaagcctga ggacattccg gcccttagtg cgctggcact
+     7861 cccgtggggt ggtggggacc tgtctcaggg tacagtgtgt tccatctggg ggtatatgtg
+     7921 cgtggagttg gtgttgaggg tctgcccctc atcatatgtg tctgtcctgc aggaagggat
+     7981 cccactctgg gtgtctctgt ggatgtccaa atctgctctg tacctggctc cctgccccag
+     8041 ctagcaactc ctgggtggca gggagctcac ctttctgggc cttgaagtgg ggctttgctc
+     8101 atggcggcct cgccgagtgc ccatacgctt cctccagttg tggcccacag aggagaggcc
+     8161 tgacagcctg cgcagttcct ctggaaggcc caggaagtcc tgttggtagg ggttagggag
+     8221 aaggtgtgcc ctccccctgg gctgtaccct gacactcacc tgccagctct gggtaatggt
+     8281 catccaggtt ctccaatagg gactcatagc gggtggaggc catgtcctct ccctctgtga
+     8341 catgtggaga gacgatgaag gacacctgac tggcctaatg gtccctactc tgcctctcac
+     8401 tctggaactg tttgctagtc caggctggga gcagagcatt gggtagggat ggattggggc
+     8461 taggtcccca gccgaggtgg gaggccggac agggccttgg gtggtctatg gtctgctatg
+     8521 cccccctctt acattctacc atagctgcag gggagagaac cttgggccac cttactgatg
+     8581 atccgaacga ggacatatat ggctcgctcc ttcagtaggg agttgcccat ggtctgggcc
+     8641 cgggaagccc cttccttcag gtcctcctcc aggctcacta ggttgccatc ctcagccagg
+     8701 agagcaatgg tcgctgggag gacatggaga gagactgggc agggctggca cccctgcctg
+     8761 ggacccctca gcccctcctt ctcctccctg tctcctcacc atctgggggc aaccctgctt
+     8821 tctgcctcag gtgggcggtg aggttcacca gcctgcaaga ggtgttcacc agcaccgagc
+     8881 agccagctgt ggagaggggc aaaggtgagc ctgtgagatc tcttaccttc ctccaaatcg
+     8941 gggtcctctg tctctccctc ccatctctcc ctttcccaga gctgcgactg ggcctatggg
+     9001 ctaagactgt gccccgggca taacagctcc aacatctgtt gcttaaactg ccttggagaa
+     9061 ccctccatcc atctcccatg tgtggtgact tttctcccat gtgtggtgac tcccaagtgt
+     9121 tggtctcttg agtcctgca
+//
+

@@ -1,0 +1,7 @@
+
+!!! W A R N I N G !!!
+You are not using the newest release of Python
+The code was tested with Python 3.10.6.
+It is advised that you update your Python
+Before you continue. Else you might encounter
+syntax errors and issues with stability.

@@ -1,0 +1,33 @@
+Zbik 0.0.1 - stable alpha
+
+Python-based CLI for working with sequences. The current version is a stable alpha
+that has the following implementations:
+
+  -> Two main classes for ease of working: Alin (alignment) and Sequences.
+  -> Sequences are loaded from  .fasta, .gb, and .gp files in a given directory into
+     separate instances whose names correspond to their accession numbers
+     with the loader() function. In case some accession numbers are the same
+     (for instance in the demonstration or multiple versions of the same sequences
+     without specified versions) instances names are modified by adding _v
+     and the available number at the end of the instance name.
+  -> Multiple sequences can be loaded directly into the Alin instance when
+     the path is provided at instance declaration. Alin instance will detect
+     sequence type conflicts and reacts accordingly.
+  -> Determines the position at which point mutations occurred between
+     multiple sequences. Displays them in human-readable form when
+     Alin.show_point_mutations_positions() is called.
+  -> Alin and Sequences have simple __str__ implemented.
+  -> Determine the transition/transversion ratio for two sequences.
+  -> Generate distance matrices for multiple sequences.
+  -> Generates edit distances matrices for multiple sequences
+
+Code-related info:
+    The main block of the code is stored in alin.py. Some more refraction and simplification
+    of that code will be done in the nearest future. Some attributes are static for now.
+    They comment on the same line. Some implementation of DRY will be done soon to decrease
+    the code size. CLI functionality is being gradually implemented. Nevertheless, the code
+    will be functional as a form of library in the python shell.
+
+The code was tested with Python 3.10.6. Using version below 3.10 will cause syntax errors.
+
+More features, such as different types of alignment, will be implemented soon.
